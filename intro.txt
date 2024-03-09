@@ -1,0 +1,4 @@
+git clone "origin url without quotes"
+git add file.html
+git commit -m "commit message"
+git push origin main
